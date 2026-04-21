@@ -9,11 +9,13 @@
 ## Project Overview
 This project focuses on the exploration and analysis of real-world survey data collected from hundreds of data professionals across the globe. By analyzing career-related metrics such as job titles, salaries, programming language preferences, and workplace happiness, this initiative aims to provide a comprehensive look into the current state of the data industry. This dashboard serves as a tool for aspiring and current data professionals to understand trends in compensation, demographics, and job satisfaction.
 
+
+
 ## Problem Description
 In the rapidly evolving data landscape, understanding the distribution of roles and the factors that influence career satisfaction is vital for both professionals and employers. This project addresses the challenge of interpreting raw survey data to uncover what data professionals truly experience—ranging from the difficulty of breaking into the field to the average salary across different countries and job titles.
 
 ## Dataset Information
-The project utilizes a [dataset]() sourced from a real-world survey posted on social media platforms like LinkedIn and Twitter. The dataset includes several key metrics:
+The project utilizes a [dataset](https://github.com/gauravkamble-insights/Data-Professionals-Survey-Breakdown/tree/main/src/data) sourced from a real-world survey posted on social media platforms like LinkedIn and Twitter. The dataset includes several key metrics:
 - **Job Titles:** Specific roles such as Data Analyst, Scientist, Engineer, and Architect.
 - **Salary:** Yearly compensation ranges, transformed into a numeric average for analysis.
 - **Programming Languages:** Preferred tools including Python, R, SQL, and others.
