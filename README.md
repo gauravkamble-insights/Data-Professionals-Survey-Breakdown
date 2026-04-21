@@ -9,6 +9,7 @@
 ## Project Overview
 This project focuses on the exploration and analysis of real-world survey data collected from hundreds of data professionals across the globe. By analyzing career-related metrics such as job titles, salaries, programming language preferences, and workplace happiness, this initiative aims to provide a comprehensive look into the current state of the data industry. This dashboard serves as a tool for aspiring and current data professionals to understand trends in compensation, demographics, and job satisfaction.
 
+<img width="1498" height="867" alt="Dashboard" src="https://github.com/gauravkamble-insights/Data-Professionals-Survey-Breakdown/blob/main/assets/Dashboard.png" />
 
 
 ## Problem Description
@@ -40,3 +41,10 @@ This project is driven by the need for transparent, data-backed insights into th
 
 ## Conclusion
 The project offers a deep dive into the demographics and professional realities of the data world. By transforming messy, raw survey responses into a structured dashboard, we can see that while Data Scientists often command the highest salaries, Data Analysts make up the largest portion of the workforce. These insights allow users to navigate their career paths with a better understanding of the global data landscape.
+
+## Author
+- <b>©2026 Gaurav Kamble.  
+- <b>[LinkedIn](https://www.linkedin.com/in/gaurav-kamble/)</b>
+- <b>[Tableau Public](https://public.tableau.com/app/profile/datagaurav/vizzes)</b>
+- <b>[Kaggle](https://www.kaggle.com/justgk)</b>
+- <b>[Email](mailto:gauravksse@gmail.com)</b>
